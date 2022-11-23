@@ -1,0 +1,16 @@
+partition by range
+
+partition by hash
+
+partition by key
+
+partition by list
+
+partition by range columns()
+
+partition by list columns()
+
+partition by range()
+subpartition by hash()
+
+
